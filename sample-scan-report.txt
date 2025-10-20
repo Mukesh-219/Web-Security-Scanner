@@ -1,0 +1,5 @@
+[High] SQL Injection vulnerability detected at /vulnerabilities/sqli/
+[Medium] Reflected XSS vulnerability detected at /vulnerabilities/xss_r/
+[Low] Missing security header detected: X-Frame-Options
+[Informational] Cookie without Secure flag detected.
+Scan completed successfully at: 2025-10-19 20:45 IST
